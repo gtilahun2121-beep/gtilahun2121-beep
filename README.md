@@ -1,3 +1,11 @@
+
+<div align="center">
+  <img src="github-banner.png"
+       width="100%"
+       alt="Getanew Tilahun - Software Developer">
+</div>
+
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Getanew+Tilahun;Full-Stack+Developer;Software+Engineering+Enthusiast;Building+Real-World+Digital+Solutions" />
