@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Getanew Tilahun</h1>
+<h1 align="center">Hi , I'm Getanew Tilahun</h1>
 
 <h3 align="center">Software Developer | Full-Stack Developer | Technology Enthusiast</h3>
 
